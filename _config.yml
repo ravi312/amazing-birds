@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Amazing Birds!
+description: avian-inspired research designs
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
